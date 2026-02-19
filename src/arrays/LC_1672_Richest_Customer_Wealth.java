@@ -1,6 +1,9 @@
 package arrays;
 
 import java.util.Arrays;
+// Approach: 2D array traversal (row sum)
+// Time Complexity: O(m * n)
+// Space Complexity: O(1)
 
 public class LC_1672_Richest_Customer_Wealth {
 

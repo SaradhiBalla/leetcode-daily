@@ -1,6 +1,9 @@
 package arrays;
 
 import java.util.Arrays;
+// Approach: Direct index mapping
+// Time Complexity: O(n)
+// Space Complexity: O(n)  (extra result array)
 
 public class LC_1470_ShuffleTheArray {
 

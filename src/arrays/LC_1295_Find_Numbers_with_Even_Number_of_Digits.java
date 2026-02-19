@@ -1,6 +1,9 @@
 package arrays;
 
 import java.util.Arrays;
+// Approach: Count digits using division
+// Time Complexity: O(n * d)  ≈ O(n)
+// Space Complexity: O(1)
 
 public class LC_1295_Find_Numbers_with_Even_Number_of_Digits {
 

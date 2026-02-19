@@ -2,6 +2,9 @@ package arrays;
 
 import java.util.Arrays;
 import java.util.HashMap;
+// Approach: Sort copy + store first occurrence index in HashMap
+// Time Complexity: O(n log n)
+// Space Complexity: O(n)
 
 public class LC_1365_Smaller_Numbers_Than_Current {
 

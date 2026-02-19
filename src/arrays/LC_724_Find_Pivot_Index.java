@@ -1,6 +1,9 @@
 package arrays;
 
 import java.util.Arrays;
+// Approach: Prefix Sum (Left sum tracking)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 
 public class LC_724_Find_Pivot_Index {
 
