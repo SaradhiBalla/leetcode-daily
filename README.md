@@ -81,5 +81,4 @@ Java
 
 This repository is actively maintained and updated with new problems regularly.
 
-## 📌 Structure
 
