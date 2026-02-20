@@ -1,4 +1,4 @@
-package arrays;
+package strings;
 
 import java.util.Arrays;
 // Approach: Two Pointer (In-place swap)
