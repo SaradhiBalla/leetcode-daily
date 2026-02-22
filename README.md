@@ -38,7 +38,7 @@ src/
 ├── arrays/
 ├── strings/
 ├── slidingwindow/
-├── binary_search/
+├── search/
 ├── recursion/
 ├── stack/
 ├── queue/
